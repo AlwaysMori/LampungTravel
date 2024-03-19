@@ -1,2 +1,2 @@
-# pemesanan_tiketbus
-Pemesanan Tiket Bus Berbasis Web Dengan Tampilan Yang Nyaman Di lihat dan dengan menu CRUD Serta Mysql
+# Bus Ticket Booking
+Web-based Bus Ticket Booking with a comfortable look and with a CRUD menu and using a database from Mysql
